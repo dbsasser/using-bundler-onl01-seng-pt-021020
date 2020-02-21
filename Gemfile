@@ -4,7 +4,6 @@ gem 'sinatra', '1.4.4'
  
 group :development do
 gem "pry"
-gem "rspec"
 end
 
 group :test do
